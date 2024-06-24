@@ -2,6 +2,6 @@
 snowflake-connector-python
 snowflake-snowpark-python
 streamlit==1.31.1
-import requests
+#import requests
 #fruityvice_response = requests.get("https://fruityvice.com/api/fruit/watermelon")
 #fv_df = st.dataframe(data=fruityvice_response.json(),use_container_width=True)
